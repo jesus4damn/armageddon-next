@@ -1,0 +1,3 @@
+export const ADD_TO_DESTROY = 'ADD_TO_DESTROY'
+
+export const REMOVE_FROM_DESTROY = 'REMOVE_FROM_DESTROY'
